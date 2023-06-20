@@ -65,6 +65,7 @@ Displays a welcome message and provides an overview of the taxi booking system.
 ## Sample Output
 ### Welcome Message:
 
+![WhatsApp Image 2023-06-20 at 15 40 18](https://github.com/PrathoshChristite/Carpooling_CIA-1/assets/118895000/470731ac-cd65-4cb4-9ab6-9224bc3a78a2)
 
 This output is displayed when the program starts, providing a welcoming message and an introduction to the system’s  purpose.
 
