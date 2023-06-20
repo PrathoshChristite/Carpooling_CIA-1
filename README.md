@@ -34,7 +34,7 @@ Displays a welcome message and provides an overview of the taxi booking system.
 
 
 
-###first_page_driver(driver_details_list):
+### first_page_driver(driver_details_list):
 
 1. Collects personal details of a driver, including name, contact number, car model, number of seats, and gender.
 2. Asks the driver for their availability on each day of the week.
