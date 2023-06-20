@@ -74,7 +74,6 @@ def first_page_passengers():
         print("Invalid input. Please enter a valid integer for the number of people.")
         return  # Exit the function in case of error
 
-    # Existing code...
 
     print("")
     file_path = 'driver_details.txt'
