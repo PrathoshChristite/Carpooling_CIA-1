@@ -1,0 +1,9 @@
+Name,Contact Number,Gender,Available Days,Available Time,One Way Price,Round Trip,Car Model,Number of Seats
+Alex,6579345678,Female,Mon Tue Wed Thur Fri,00:00-18:00,2400,4300,Toyota,4
+Ryan,8452863982,Male,Sun Sat,12:00-19:00,2400,4500,Audi,3
+Prathosh,987656134,Female,Sun Mon Wed Thur Sat,19:00 to 06:00,2000,4000,BMW,4
+Saara,9284911567,Male,Tue Wed Thur Fri,00:00 to 20:00,2500,5000,Endevor,4
+Kedar,8765643456,Male,Sun Mon Thur Fri Sat,12:45 to 23:00,3450,6500,Swift,4
+Akansha ,8765673453,female,Sun Mon Thur Fri Sat,03:00 - 19:00,2300,4500,Honda Cuty,4
+Akansha,7250727006,Female,Sun Sat,06:56 to 06:57,23456789,234567898765432,Swift,3
+Saara,9167839232,Female,Sun Tue Thur Sat,12:30 to 23:30,2000,3500,Maruthi Suzuki,4
