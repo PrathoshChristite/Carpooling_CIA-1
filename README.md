@@ -65,25 +65,36 @@ Displays a welcome message and provides an overview of the taxi booking system.
 ## Sample Output
 ### Welcome Message:
 
-![WhatsApp Image 2023-06-20 at 15 40 18](https://github.com/PrathoshChristite/Carpooling_CIA-1/assets/118895000/470731ac-cd65-4cb4-9ab6-9224bc3a78a2)
+![WhatsApp Image 2023-06-20 at 15 40 18](https://github.com/PrathoshChristite/Carpooling_CIA-1/assets/118895000/f21c84b0-82cc-4030-9f5b-557098192fbe)
 
 This output is displayed when the program starts, providing a welcoming message and an introduction to the system’s  purpose.
 
 ### Passenger Input:
 
+![passengers](https://github.com/PrathoshChristite/Carpooling_CIA-1/assets/118895000/84ecaa71-f381-425a-a0ea-40e37bb488a6)
 
 This output represents the input process for passengers. The passengers are prompted to enter their personal information (names, contact numbers, genders) and travel details (pick-up location, destination, one-way or two-way, pick-up time, pick-up date, payment method).
 
 ### Available Drivers
 
-
-
+![WhatsApp Image 2023-06-20 at 16 06 16](https://github.com/PrathoshChristite/Carpooling_CIA-1/assets/118895000/8ab49ff3-e956-4f8d-bce6-672c4accdcaa)
 
 This output displays the available drivers' details based on the passenger's requirements. It includes the driver's name, contact number, car model, and the number of available seats in their car.
 
 ### Driver Input:
 
+![driver](https://github.com/PrathoshChristite/Carpooling_CIA-1/assets/118895000/6e3020e1-deb9-41be-8396-0de357e13d93)
+
 
 This output showcases the input process for drivers. Drivers are prompted to provide their personal information (name, contact number, car model, number of seats, gender), availability on specific days, available time range, and fare details for one-way and two-way trips.
+
+### run program 
+
+![run](https://github.com/PrathoshChristite/Carpooling_CIA-1/assets/118895000/396fc3fd-ba8e-4ce9-957d-beacfeecdba0)
+
+### driver details
+
+![driver details](https://github.com/PrathoshChristite/Carpooling_CIA-1/assets/118895000/ea83b171-eaeb-44dc-b819-af7263526a69)
+
 
 
