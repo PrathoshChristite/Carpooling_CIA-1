@@ -1,7 +1,7 @@
 # Taxi booking system Documentation
   -Prathosh Chander and Saara Khobragade
 ## Topic 
-A system for car booking (Lavasa to Pune)
+A system for car booking (Lavasa to Pune and Vice Versa)
 
 ## Description 
 The Taxi booking system is a platform that facilitates available taxis between Lavasa and Pune, allowing drivers to enter their details and passengers to choose from a database of available drivers. The goal of the system is to provide a convenient mode of transportation for individuals traveling between the two locations. Passengers can view the availability of seats for specific timings and find drivers who are available at the chosen date and time .
